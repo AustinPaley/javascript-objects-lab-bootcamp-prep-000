@@ -1,3 +1,3 @@
 var recipes = {};
 
-var updateObjectWithKeyAndValue = 
+var updateObjectWithKeyAndValue = new Object(object, key, value)
